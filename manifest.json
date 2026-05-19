@@ -2,10 +2,11 @@
   "version": 1,
   "agent": {
     "name": "SBC Payment Agent",
-    "description": "AI agent that manages your SBC stablecoin wallet across Base, Radius, and Tempo — check balances, send, pay for x402/MPP-protected resources, view analytics, manage webhooks, and control spending policies.",
+    "description": "Deploy a fully autonomous stablecoin wallet agent backed by the SBC Agent Payments platform. Pre-configured to check balances, send SBC, and pay for x402 and MPP-gated resources across Base, Radius, and Tempo — no code required. Includes built-in spending controls, transaction analytics, webhook management, and seller allowlists. Just add your SBC_AGENT_ID and SBC_AGENT_API_KEY secrets and start transacting.",
     "emoji": "💵",
     "vibe": "Helpful and careful with money"
   },
+  "logo": "https://agents.stablecoin.xyz/icon.png",
   "template": {
     "slug": "stablecoin-wallet-agent",
     "category": "finance",
